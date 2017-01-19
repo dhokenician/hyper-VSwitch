@@ -12,13 +12,13 @@ After execution it will require a restart.
 Example for enabling Hyper-V
 
 ```bash
-Powershell.exe -file C:\yourgitclone\hyper-VSwitch\PowerShellSwitch.ps enable -RunAsAdministrator
+Powershell.exe -file C:\yourgitclone\hyper-VSwitch\PowerShellSwitch.ps1 enable -RunAsAdministrator
 ```
 
 Example for disabling Hyper-V
 
 ```bash
-Powershell.exe -file C:\yourgitclone\hyper-VSwitch\PowerShellSwitch.ps disable -RunAsAdministrator
+Powershell.exe -file C:\yourgitclone\hyper-VSwitch\PowerShellSwitch.ps1 disable -RunAsAdministrator
 ```
 
 Don't forget to set the execution policy of powerShell to run its magic.
