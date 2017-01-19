@@ -8,7 +8,7 @@ Windows with Powershell (Windows 7 or 10 for example)
 
 After execution it will require a restart.
 
-###Eaxmples
+###Examples
 Example for enabling Hyper-V
 
 ```bash
