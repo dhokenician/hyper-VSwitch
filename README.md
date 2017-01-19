@@ -1,7 +1,7 @@
 # hyper-VSwitch
-Simple PowerShell to turn Hyper-V on and Off on Windows
+Simple PowerShell to turn Hyper-V on and off on Windows
 
-Sick of losing efficiency with Docker (runs better with Hper-V) and Virtual Box (oil and water).  Made a quick powershell that will enable or disable Hyper-V.
+Sick of losing efficiency with Docker (runs better with Hyper-V) and Virtual Box (oil and water).  Made a quick powershell that will enable or disable Hyper-V.
 
 ###Requirement
 Windows with Powershell (Windows 7 or 10 for example)
